@@ -1,3 +1,13 @@
+[![My Skills](https://skillicons.dev/icons?i=java,maven,spring,hibernate,postgresql,html,bootstrap,js,jquery,docker&theme=light)](https://skillicons.dev)
+# project-final
+### JiraRush
+
+JavaRush Final Project:
+
+https://javarush.com/quests/lectures/jru.module5.lecture02
+
+## Screenshot
+
 ## [REST API](http://localhost:8080/doc)
 
 ## Концепция:
@@ -27,4 +37,6 @@
 - https://habr.com/ru/articles/259055/
 
 Список выполненных задач:
-...
+
+1. Разобраться со структурой проекта (onboarding).
+2. 
