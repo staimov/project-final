@@ -39,4 +39,5 @@ https://javarush.com/quests/lectures/jru.module5.lecture02
 Список выполненных задач:
 
 1. Разобраться со структурой проекта (onboarding).
-2. 
+2. Удалить социальные сети: vk, yandex.
+3.  
