@@ -3,10 +3,10 @@ out
 target
 *.iml
 logs
-attachments
 *.patch
-
 
 /my_commands.txt
 /my_notes.txt
 /my_questions.txt
+attachments.bak
+attachments
