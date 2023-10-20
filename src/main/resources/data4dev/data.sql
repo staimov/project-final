@@ -314,6 +314,10 @@ values ('Add role manager and filters in security', 'task', 'done', 1, 1, 1,
 alter
 sequence TASK_ID_SEQ restart with 1000;
 
+INSERT INTO task_tag(task_id, tag)
+values (1, 'foo'),
+       (1, 'bar');
+
 ---task 1------
 INSERT INTO ACTIVITY(AUTHOR_ID, TASK_ID, UPDATED, COMMENT, TITLE, DESCRIPTION, ESTIMATE, TYPE_CODE, STATUS_CODE,
                      PRIORITY_CODE)

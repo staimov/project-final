@@ -44,4 +44,5 @@ https://javarush.com/quests/lectures/jru.module5.lecture02
 4. Переделать тесты так, чтоб во время тестов использовалась in memory БД (H2), а не PostgreSQL.
 5. Написать тесты для всех публичных методов контроллера ProfileRestController.
 6. Сделать рефакторинг метода com.javarush.jira.bugtracking.attachment.FileUtil#upload.
-7. 
+7. Добавить новый функционал: добавления тегов к задаче (REST API + реализация на сервисе).
+8. 
